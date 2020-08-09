@@ -1,0 +1,49 @@
+header{
+
+}blockquote{
+    top: 0;
+    
+}
+body{
+    background-color: rgba(0,255,0,0.2);
+    margin-left: 20%;
+    margin-right: 20%
+}
+h1, title{
+    text-shadow: 5px 5px 10px grey;
+    text-align: center;
+    font-size: 3em;
+    bottom: 0;
+    text-transform: uppercase;
+  }
+  h5{
+      text-align: center;
+      margin-top: -20px;
+  }
+  p{
+    font-family: 'Molengo', sans-serif;
+}
+.main{
+    font-family: monospace;
+    width: 800px;
+    height: 90px;
+    justify-content: center;
+}
+.image{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+.tribute{
+    box-shadow: 20px 20px 15px grey;
+    background-color: rgba(0,0,0,0.2);
+    margin-top: 20px;
+    padding: 30px;
+    text-align: justify;
+}
